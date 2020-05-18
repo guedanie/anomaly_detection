@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.csv
+*.xlsx
+env.py
+regression-class-notes/
+regression_project_zillow/
+classification-class-notes/
+practice-datasets/
+telco-churn-project/
