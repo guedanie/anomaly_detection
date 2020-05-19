@@ -3,6 +3,7 @@
 __pycache__/
 *.csv
 *.xlsx
+*.txt
 env.py
 regression-class-notes/
 regression_project_zillow/
