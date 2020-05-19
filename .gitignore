@@ -8,4 +8,4 @@ regression-class-notes/
 regression_project_zillow/
 classification-class-notes/
 practice-datasets/
-telco-churn-project/
+telco-churn-project/*.txt
